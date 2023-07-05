@@ -6,4 +6,6 @@ We were able to populate the dropdown menu and implemented a function so that ev
 
 Was not able to do the GAUGE CHART.
 
+Github Pages has been set, but it is showing my README file info, my instructor Jose Barrera tried to help me fix this but there is no solution. 
+
 Thank you!
